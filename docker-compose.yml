@@ -1,0 +1,9 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: ecommerce-postgres
+    environment:
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: ecommerce
+    ports:
+      - "5432:5432"
