@@ -148,3 +148,20 @@ Pratha Srivastava
 B.Tech CSE Student
 
 Learning SQL, Docker, Cloud, and Data Analytics
+
+## Dashboard Preview
+
+Built using Tableau Public and PostgreSQL.
+
+### Visualizations
+- Top Customers by Revenue
+- Revenue by Category
+- Customer Spending Analysis
+- Revenue Insights
+
+### Technologies
+- PostgreSQL
+- Docker
+- SQL
+- Tableau Public
+- GitHub
