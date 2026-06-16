@@ -165,3 +165,7 @@ Built using Tableau Public and PostgreSQL.
 - SQL
 - Tableau Public
 - GitHub
+
+## Dashboard Preview
+
+![E-Commerce Dashboard](dashboard.png)
